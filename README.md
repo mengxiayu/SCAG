@@ -1,7 +1,7 @@
 # Scientific Comparative Argument Generation
 
 ## Data
-We provide data in JSONLine and TSV format. Please access the data from this [Google Drive link](https://drive.google.com/drive/folders/10YrvtT6k5F7wlrQI8g0Jv-8yC4vUB9vB?usp=sharing).
+We provide data in JSONLine and TSV format. Please access the data from this [Google Drive link](https://drive.google.com/drive/folders/1Ae_aitfCwsEI23MqMEXdrachXPkLZvO4?usp=sharing).
 -  `data/jsonl_files/` The detailed data information of the full dataset, containing SCAG and SCAGml. Please find an example in the Appendix.
 -  `data/SCAG/` The SCAG data in TSV format. Each file has the following columns:
    -   "Y": the $CmpArg$ sentences.
