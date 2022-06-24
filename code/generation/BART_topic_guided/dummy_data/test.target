@@ -1,0 +1,50 @@
+However , all these techniques require and assume that the background in a scene settles quickly into a stationary state , so that the distribution of background pixels becomes stable and tight , although not necessarily continuous .
+However , their work focused on supervised hashing; their formulation is based on the assumption that the resulted codes is good for linear classification; furthermore , they did not consider independent and balancing properties of codes .
+However , throughout these works , AMoD systems are assumed to have no impact on the electric power network .
+However , all of these works still assume the smoothness of the loss functions .
+However , most of them rely on unrealistic assumptions , for example , accurate location and perfect circular sensing area , and do not work well in the error-prone environment .
+However , these methods assume that λ is known , which may not be true in many applications .
+However , these methods often assume that the system deals with bounded disturbances which should be small enough , thus fail to guarantee stability considering control constraints when meeting strong disturbances .
+However all these researches have not put resources into the picture or they simply employ an unrealistic assumption that there is a global coordination on internal authorization policies of each autonomous web services to enforce the access control in service composition .
+However , most of these applications assume a centralized data set .
+However , this assumption may not hold in practice , resulting in an inaccurate model distribution .
+These works , however , are based on the unrealistic assumption that the controller has full knowledge about the mode signal at any time instant .
+However , their approach uses a simplified imaging model where the point spread function to model sampling of a camera is not taken into account and only translational motion between successive frames is assumed .
+These thresholding based subspace clustering methods however , seem to rely critically on the distribution assumptions of the semi-random model and hence do not work as well as SSC or LRR in applications such as motion segmentation and face clustering .
+However , these works are based on the unrealistic assumption of perfect channel state information .
+However , all these methods assume that we a priori choose the categories in our source dataset that are applicable in our target dataset .
+However , these approaches are often designed with strong assumptions of the real-world network conditions and heavily rely on the finetuned parameters , which results in sensitivities to network conditions and unexpected performances .
+However , these compilers assume the availability of specialized hardware or cache-coherent shared memory , and their performance is evaluated using a small number of cores .
+However , unlike our work , these works assume that a calibrated hydraulic model of the network is available .
+However , by default all these methods assume that a generative network can learn to predict or understand the structure in the image implicitly , without explicit modeling of structures or foreground/background layers in the learning process .
+All these approaches , however , assume that the trajectories are available .
+However , all existing solutions for this latter model provide probabilistic guarantees only , and most of them assume some strong or weak forms of synchronous execution model .
+However , Ganusov et al elegantly demonstrated that these more complex models reduce to the simpler model used here under the limiting assumptions of a variant initially present at low frequency and a small mutation rate .
+Such approaches assume that the error-function behaves monotonically , holding steady for slow-moving sequences; however , such properties do not hold true for other kinds of movements in video sequences , which results in the risk of the algorithm getting trapped in local minima . Decreasing the computational overhead for every search point , which means the matching cost is replaced by a partial or simplified version with less complexity .
+However , to our understanding , all these systems assume a contention manager module with global knowledge about the set of running transactions , which is reasonable in the context of STM; by contrast , we analyze a setting where only local , immediate , and unchangeable decisions are possible , which is the case for HTM .
+However , these methods assume some labeled data in target domains and are thus not applicable in our setting of unsupervised DA .
+Note , however , that for increasing angular separations , this assumption is no longer valid , and therefore , a new mathematical framework is required in order to evaluate the asymptotic performance in such cases , which is the main contribution of this paper .
+However , these works all make strong assumptions on the structure of the scene , hence the types of scene they can handle in practice are limited .
+However , these algorithms assume that the target speech is from a particular direction , typically right in the front in the binaural setup , and therefore may not work well when the target speech is from other directions .
+However , these compositional approaches assume that word vectors have already been constructed , and contextual evidence is only used to induce optimal combination rules to derive representations of phrases and sentences .
+However , this assumption usually does not hold in practical networks due to asymmetric loads on the links in two different directions or different packet scheduling strategies .
+Most of these methods , however , all assume that the vehicles are distributed homogeneously over the road segment , which is not realistic .
+However , these approaches rely on some strong assumptions that often lead to quasi-static *This work was supported in part by the National Science Foundation under grant CNS-1552838 and the OSU M&MS Discovery Theme Initiative . 1 and unrealistic walking behaviors .
+However , partial-observation supervisory controllers , as introduced in Lin and Wonham , have traditionally been designed with the assumption that the controllers are fault-free .
+However , their models only consider bag-of-words assumption when modeling words in plain texts , neglecting rich textual information embedded in word order . directly builds entity representations from entity descriptions , while their model is restricted by the completeness and quality of entity descriptions .
+In all these models , communication is assumed to be reliable , however .
+However , these approaches are either not scalable or rely on the assumption that the third-party code is used by many apps without modification , which might not always hold true .
+However , the proof techniques developed in those works assumed qubit-level systems .
+The majority of these approaches , however , assumes an implicit kinematic model of the articulated object .
+However , these models often rely on assumptions about the behaviour of the error: for example , they may assume that interactions are equally likely to be detected regardless of the properties of the proteins involved .
+However , this assumption of omni-directional sensing ability does not hold true for some types of sensor nodes , such as cameras , ultrasonic sensors , etc . , which have a directional sensing region .
+These algorithms , however , are predominantly designed with the aim of reducing the computational complexity of determinant calculation and not mitigation of the effects of its high condition number , and often rely on assumptions that do not apply to W K .
+However , the IDF measure is based on a simple assumption , that a word with low semantic importance is one that is used commonly in most documents of the corpus .
+However , these methods make strong assumptions about the degree to which the source categories overlap with the target domain , which limits their applicability to many real-world settings .
+However , these approaches assume that a specific vertical pose of an omnidirectional camera allows the computation of both bearing and distance , while we use only the optical flow and time-tocollision .
+The data mining problem is assumed to be the same in all the devices; however , the feature space and the data distributions may not be static , as assumed in traditional data mining approaches . 68 , 69 We are interested in understanding how the knowledge available in the community can be integrated to improve local predictive accuracy in a ubiquitous data stream mining scenario .
+However , such assumption may not be valid in large mmWave MIMO systems due to the high propagation directivity and the narrow beam width associated with large antenna arrays .
+More interesting , however , is that CNN-based methods implicitly assume the model in , although that is rarely acknowledged .
+However , the evidence provided to date to support this assumption has largely been anecdotal .
+All of the existing results , however , require restrictive assumptions , such as zero noise , analysis at convergence , continuous-time analysis , or strong conditions on the data .
+However , these algorithms heavily rely on assumptions of the PRAM model , ie , that processors can efficiently fetch information concerning any edge or vertex in the graph .
